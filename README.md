@@ -12,7 +12,7 @@ The project is in early alpha. The development of the concept has been funded by
 
 Open City Design System takes advantage and is built around [Bootstrap](https://getbootstrap.com/) component library. It can be used as a Bootstrap style theme or expanded pattern library with added modules and pattern.
 
-Go to [Open City Design System website](https://opencity.design/) and browse the city-specific design systems.
+Go to [Open City Design System website](http://opencity.design/) and browse the city-specific design systems.
 
 ## How can I contribute?
 
